@@ -1,0 +1,720 @@
+Task,User,Session,Terms Used,English Translation,Query States,Observations,OISS,Code,OISS Domain,SERP Position,Link Click
+Task_1,USER_1,1_1,conceito direito de posse,property law concept,Initial State (IS),,Control,C2,Behavioral,,
+,,,,,,,Control,C4,Behavioral,,
+,,,,,,,Select Main Ideas,SMI1,Metacognitive,,
+,,,,,,Change to the Legislation box,Select Main Ideas,SMI5,Metacognitive,,
+,,,direito de posse codigo civil,property law civil code,Word Substitution (WS),,Select Main Ideas,SMI5,Metacognitive,3,1
+,,,,,,Change to the Doctrine box,Select Main Ideas,SMI5,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Purposeful Thinking,PT3,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+,,,direito a posse e direito de posse,right to property and property law,Word Substitution (WS),,Control,C7,Behavioral,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,4,1
+,,,,,,,Select Main Ideas,SM6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,jus possidendi e jus possessionis,jus possidendi and jus possessionis,Related (RE),,Control,C7,Behavioral,,
+,,,,,,,Trial and Error,TE1,Procedural,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SM6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Control,C6,Behavioral,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,,
+,,,jus possidendi e jus possessionis conceito,jus possidendi and jus possessionis concept,Specialization (SC),,Select Main Ideas,SMI5,Metacognitive,2,1
+,,,,,,Change to the Pleadings box,Select Main Ideas,SMI5,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Purposeful Thinking,PT3,Metacognitive,,
+,,,,,,,Evaluation,E1,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+Task_2,USER_1,1_2,contrato de aluguel venia conjugal,spousal lease contract,Initial State (IS),,Purposeful Thinking,PT1,Metacognitive,,
+,,,,,,Change to the Legislation box,Select Main Ideas,SMI5,Metacognitive,2,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,lei do inquilinato,landlord-tenant law,Related (RE),,Trial and Error,TE1,Procedural,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Control,C6,Behavioral,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,,
+,,,lei do inquilinato venia conjugal,landlord-tenant law spousal bow,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,2,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+,,,,,,,Evaluation,E1,Metacognitive,,
+,,,lei do inquilinato art 3,landlord-tenant law clause 3,Specialization (SC),Reading the third link's snipet ,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+,,,,,,,Control,C6,Behavioral,,
+,,,morte do locatário art sub-locação,tenant death sublease clause,New (NW),,Select Main Ideas,SMI3,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,,
+,,,,,,Change to the All box,Select Main Ideas,SMI5,Metacognitive,,
+,,,,,,Reading first link's snipet ,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+,,,direito de preferencia do locatário,tenant right of first refusal,Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,,,,Reading first link's snipet ,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+,,,benfeitorias indenizáveis,improvement indemnifiable expenses,New (NW),,Trial and Error,TE1,Procedural,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,benfeitorias indenizáveis locatário,tenant improvement indemnifiable expenses,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,,
+,,,,,,Reading first link's snipet ,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+Task_3,USER_1,1_3,tese STF convenção de montreal bagagem,supreme court jurisprudence montreal convention baggage,Initial State (IS),,Control,C4,Behavioral,,
+,,,,,,,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Reading first link's snipet ,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+,,,tese STF convenção de montreal bagagem limite valor,supreme court jurisprudence montreal convention baggage cost limit,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,,
+,,,,,,Reading second link's snipet ,Select Main Ideas,SMI6,Metacognitive,,
+,,,convenção de montreal,montreal conventions,Generalization (GE),Change to the Legislation box,Select Main Ideas,SMI2,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+,,,,,,,Control,C6,Behavioral,,
+,,,STJ entendimento responsabilidade civil voo internacional,federal court understanding civil liability international flight,New (NW),Change to the All box,Trial and Error,TE1,Procedural,,
+,,,,,,Reading second link's snipet ,Select Main Ideas,SMI6,Metacognitive,,
+,,,STJ entendimento responsabilidade civil voo internacional STF,federal court understanding civil liability international flight supreme court ,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Purposeful Thinking,PT2,Metacognitive,,
+,,,,,,,Purposeful Thinking,PT3,Metacognitive,,
+,,,CDC,Consumer Protection Code,New (NW),,Trial and Error,TE1,Procedural,,
+,,,CDC tem regra específica para extravio de bagagem,Consumer Protection Code has a specific rule regarding baggage loss,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,,
+,,,,,,Change to the Articles and News box,Select Main Ideas,SMI5,Metacognitive,5,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Control,C6,Behavioral,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,10,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Purposeful Thinking,PT2,Metacognitive,,
+,,,,,,,Purposeful Thinking,PT3,Metacognitive,,
+,,,atraso de voo dano moral in re ipsa,flight delay presumed moral damage,Related (RE),,Trial and Error,TE1,Procedural,,
+,,,,,,Reading first link's snipet ,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,Reading second link's snipet ,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Evaluation,E1,Metacognitive,,
+,,,critério jurisprudência fixar danos morais,jurisprudence criterion to determine moral damages,Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,critério jurisprudência fixar danos materiais atraso e cancelamento de voo,jurisprudence criterion to determine material damages for flight delayed and cancelled,Word Substitution (WS),,Select Main Ideas,SMI2,Procedural,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,4,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,fixação danos materiais atraso e cancelamento de voo,determining material damages for flight delayed and cancelled,Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,,,,Reading first link's snipet ,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,Reading second link's snipet ,Select Main Ideas,SMI6,Metacognitive,,
+,,,fixação danos materiais atraso e cancelamento de voo -moral,determining material damages for flight delayed and cancelled -moral,Specialization (SC),Utilized the - signal to ban a specific word to appear,Control,C10,Behavioral,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,2,1
+,,,,,,,Purposeful Thinking,PT2,Metacognitive,,
+,,,,,,Opened a pdf document,Select Main Ideas,SMI5,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+Task_1,USER_2,2_1,detenção direito possessório,ownership right holding,Initial State (IS),,Control,C4,Behavioral,,
+,,,,,,,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,5,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,artigos 1267 e 1268 do código civil,civil code clauses 1267 and 1268,New (NW),,Purposeful Thinking,PT1,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,Quando ocorre a transferência da propriedade de um bem móvel por meio de negócio jurídico?,When does the transfer of ownership of a movable property take place through a legal transaction?,Related (RE),,Trial and Error,TE1,Procedural,,
+,,,,,,Reading first link's snipet ,Select Main Ideas,SMI6,Metacognitive,,
+,,,Quando ocorre a transferência da propriedade de um bem imóvel por meio de negócio jurídico?,When does the transfer of ownership of real estate take place through a legal transaction?,Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,O que caracteriza a posse precária?,What characterizes precarious holding?,New (NW),,Purposeful Thinking,PT1,Metacognitive,4,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,O que é turbação e esbulho,What is full infringement and partially infrigiment of the ownership right ,New (NW),,Purposeful Thinking,PT1,Metacognitive,5,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Control,C6,Behavioral,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,4,1
+,,,,,,,Control,C6,Behavioral,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,7,1
+,,,,,,,Control,C6,Behavioral,,
+,,,Código Civil,Civil Code,New (NW),,Trial and Error,TE1,Procedural,,
+,,,,,,Change to the Legislation box,Select Main Ideas,SMI5,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,Change to the Articles and News box,Control,C6,Behavioral,,
+,,,esbulho,partially infrigiment of the ownership right ,New (NW),,Trial and Error,TE1,Procedural,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,2,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+Task_2,USER_2,2_2,lei do inquilinato,landlord-tenant law,Initial State (IS),,Select Main Ideas,SMI3,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI1,Metacognitive,,
+,,,prazo contrato de locação de imóvel vênia conjugal,term contract for leasing a property marital consent,New (NW),,Purposeful Thinking,PT1,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Purposeful Thinking,PT3,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+,,,,,,Change to the Jurisprudence box,Control,C6,Behavioral,,
+,,,"locador cobrança do aluguel, tributos, encargos e despesas ordinárias do condomínio tudo junto","landlord collection of rent, taxes, charges and condominium ordinary expenses all in",New (NW),,Purposeful Thinking,PT1,Metacognitive,,
+,,,,,,Reading sixth link's snipet ,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Purposeful Thinking,PT3,Metacognitive,,
+,,,lei da locação,tenancy law,Related (RE),,Trial and Error,TE1,Procedural,,
+,,,,,,,Purposeful Thinking,PT3,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,"Art. 25....Atribuída ao locatário a responsabilidade pelo pagamento dos tributos, encargos e despesas ordinárias de condomínio, o locador poderá cobrar tais verbas juntamente com o aluguel do mês a que se refiram...Se o locador antecipar os pagamentos, a ele pertencerão as vantagens daí advindas, salvo se o locatário reembolsá- lo integralmente.","Clause. 25... Assigned to the lessee the responsibility for the payment of taxes, charges and ordinary condominium expenses, the lessor may charge such amounts together with the rent of the month to which they refer... If the lessor advances the payments, he the benefits arising therefrom will belong, unless the lessee reimburses it in full.",New (NW),,Trial and Error,TE1,Procedural,2,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,lei da locação,tenancy law,New (NW),,Trial and Error,TE1,Procedural,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+,,,,,,,Purposeful Thinking,PT3,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,Change to the Jurisprudence box,Control,C6,Behavioral,,
+,,,locador não concede o direito de preferência ao locatário na venda,lessor does not grant right of first refusal to lessee in the sale,New (NW),,Purposeful Thinking,PT1,Metacognitive,,
+,,,direito de preferência do locatário não respeitado,tenant's right of first refusal not respected,Word Substitution (WS),,Trial and Error,TE1,Procedural,1,1
+Task_3,USER_2,2_3,indenização atraso de voo danos morais,flight delay compensation moral damages,Initial State (IS),,Select Main Ideas,SMI3,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,dano moral presumido extravio de bagagem,presumed moral damage luggage loss ,Word Substitution (WS),,Purposeful Thinking,PT1,Metacognitive,1,1
+Task_1,USER_3,3_1,Definição de Possuidor segundo o Código Civil,Owner's definition according to the Civil Code,Initial State (IS),,Select Main Ideas,SMI2,Metacognitive,1,1
+,,,,,,Change to the Legislation box,Purposeful Thinking,PT3,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,O que é detenção?,What is holding?,New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,O que é detenção? Possessória,What is holding? Ownership,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,,
+Task_2,USER_3,3_2,"locação de imóvel, qual situação exige vênia conjugal?","real estate lease, which situation requires marital consent?",Initial State (IS),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Change to the Articles and News box,Select Main Ideas,SMI5,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,"pode o locador realizar a cobrança do aluguel, tributos, encargos e despesas ordinárias do condomínio ","can the landlord collect rent, taxes, charges and condominium ordinary expenses ",New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,"cobrança do aluguel, tributos, encargos e despesas ordinárias do condomínio ","collect rent, taxes, charges and condominium ordinary expenses ",Generalization (GE),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Change to the Doctrine box,Select Main Ideas,SMI6,Metacognitive,,
+,,,cobrança despesas ordinários do condomínio,collect condominium ordinary expenses ,Generalization (GE),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,autorização de cobrança pelo locador,collection authorization by the landlord,New (NW),,Trial and Error,TE1,Procedural,1,1
+,,,,,,Reading the SERP's snipets,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,Change to the Doctrine box,Select Main Ideas,SMI5,Metacognitive,,
+,,,,,,,Control,C6,Behavioral,,
+,,,autorização de cobrança de depesas do locatário,authorization to charge tenant expenses,Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,,,,Reading the SERP's snipets ,Select Main Ideas,SMI6,Metacognitive,1,1
+,,,,,,,Disorientation,D4,Behavioral,,
+,,,,,,,Disorientation,D1,Behavioral,,
+Task_3,USER_3,3_3,danos morais por atraso em voo,moral damages for flight delay,Initial State (IS),,Select Main Ideas,SMI3,Metacognitive,,
+,,,,,,Reading the SERP's snipets ,Select Main Ideas,SMI6,Metacognitive,1,1
+,,,Convenção de Montreal,Montreal Convention,Related (RE),,Trial and Error,TE1,Procedural,,
+,,,,,,Reading the SERP's snipets ,Select Main Ideas,SMI6,Metacognitive,1,1
+,,,dano moral em atraso de voo nacional,moral damage in domestic flight delay,Related (RE),,Select Main Ideas,SMI3,Metacognitive,,
+,,,,,,Reading the SERP's snipets ,Select Main Ideas,SMI6,Metacognitive,1,1
+Task_1,USER_4,4_1,detenção,holding,Initial State (IS),Change to the Legislation box,Control,C4,Behavioral,,
+,,,,,,,Select Main Ideas,SMI2,Metacognitive,,
+,,,detenção possessória,holding ownership,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,,
+,,,detenção bem imóvel,holding real estate,Word Substitution (WS),Change to the All box,Trial and Error,TE1,Procedural,,
+,,,,,,Reading second link's snipet ,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,Change to the Doctrine box,Select Main Ideas,SMI5,Metacognitive,6,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Control,C6,Behavioral,,
+,,,Artigo 1.208 do código civil,Clause 1208 civil code,New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Change first to the All box and then to the Doctrine box,Select Main Ideas,SMI5,Metacognitive,4,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Control,C6,Behavioral,,
+,,,Código civil 1.208,Civil code 1208,Generalization (GE),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Change to the All box ,Select Main Ideas,SMI5,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+,,,jus possidendi e jus possessionis ,jus possidendi and jus possessionis ,New (NW),,Select Main Ideas,SMI3,Metacognitive,,
+,,,,,,Reading first and second link's snipet ,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+,,,,,,,Control,C4,Behavioral,,
+,,,jus possidendi ,jus possidendi ,Generalization (GE),,Select Main Ideas,SMI2,Metacognitive,,
+,,,jus possessioni ,jus possessioni ,Related (RE),,Select Main Ideas,SMI2,Metacognitive,,
+,,,jus possessionis ,jus possessionis ,Word Substitution (WS),Change to the Doctrine box,Trial and Error,TE1,Procedural,5,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+Task_2,USER_4,4_2,Lei do inquilinato,Landlord-tenant law,Initial State (IS),,Control,C4,Behavioral,,
+,,,,,,Change to the Legislation box,Select Main Ideas,SMI3,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,vênia conjugal contrato de locação,marital consent  leasing contract,New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Reading second link's snipet ,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Purposeful Thinking,PT3,Metacognitive,,
+,,,,,,Used a filter to narrow the results to MG state decisions,Control,C8,Behavioral,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+,,,art. 3º da Lei 8.245/91,clause 3rd law 8245/91,New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Change to the Doctrine box,Select Main Ideas,SMI5,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Purposeful Thinking,PT3,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+,,,ação renovatória retomada,renewal action resumption,New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,ação renovatória retomada art do cpc,renewal action resumption civil procedure code clause,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,,
+,,,ação renovatória retomada do imóvel stf,renewal action real estate resumption supreme court,Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,,,,Change to the Jurisprudence box and used a filter to narrow the results,Control,C8,Behavioral,,
+,,,ação renovatória retomada do imóvel sem pedido expresso,renewal action real estate resumption no express request,Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,Lei do inquilinato,Landlord-tenant law,Return State (RS),,Trial and Error,TE1,Procedural,,
+,,,,,,Change to the Legislation box,Select Main Ideas,SMI5,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,"BUZAID, Alfredo. Da ação renovatória e das demais ações oriundas de contrato de locação de imóveis destinados a fins comerciais. 3. ed. rev. e aum. São Paulo: Saraiva, 1998","BUZAID, Alfredo. Renewal action and other actions arising from the leasing agreement of real estate intended for commercial purposes. 3. ed. rev. e aum. São Paulo: Saraiva, 1998",New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,"BUZAID, Alfredo. Da ação renovatória e das demais ações oriundas de contrato de locação de imóveis destinados a fins comerciais. ","BUZAID, Alfredo. Renewal action and other actions arising from the leasing agreement of real estate intended for commercial purposes. ",Generalization (GE),,Select Main Ideas,SMI2,Metacognitive,,
+,,,Da ação renovatória e das demais ações oriundas de contrato de locação de imóveis destinados a fins comerciais,Renewal action and other actions arising from the leasing agreement of real estate intended for commercial purposes,Generalization (GE),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Change to the Articles and News box,Select Main Ideas,SMI5,Metacognitive,,
+,,,ação renovatória retomada presunção de sinceridade,renewal action resumption presumption of sincerity,Word Substitution (WS),Change to the Jurisprudence box ,Trial and Error,TE1,Procedural,,
+,,,ação renovatória retomada presunção ,renewal action resumption presumption ,Generalization (GE),,Select Main Ideas,SMI2,Metacognitive,,
+,,,ação renovatória improcedente presunção ,renewal action unfounded presumption ,Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,ação renovatória improcedente retomada,renewal action unfounded resumption,Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,Lei do inquilinato,Landlord-tenant law,Return State (RS),,Trial and Error,TE1,Procedural,1,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,ação renovatória verificação do exercício do direito de retomada mesmo sem pedido expresso de defesa,renewal action verification of the exercise of the right of resumption even without express request for defense,New (NW),,Trial and Error,TE1,Procedural,,
+,,,"ação renovatória ""verificação do exercício do direito de retomada mesmo sem pedido expresso de defesa""","renewal action ""verification of the exercise of the right of resumption even without express request for defense""",Repeat (RP),,Trial and Error,TE1,Procedural,,
+Task_3,USER_4,4_3,danos morais extravio de bagagem quantificação abalo psicológico,moral damages loss of baggage quantification psychological damage,Initial State (IS),Change to the Jurisprudence box ,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Used a filter to narrow the results,Control,C8,Behavioral,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,danos morais in re ipsa atraso em voo,moral damages in re ipsa flight delay,Word Substitution (WS),,Select Main Ideas,SMI3,Metacognitive,,
+,,,,,,Used a filter to narrow the results,Control,C8,Behavioral,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,"danos morais in re ipsa ""atraso em voo""",moral damages in re ipsa flight delay,Repeat (RP),,Trial and Error,TE1,Procedural,,
+,,,,,,Used a filter to narrow the results,Control,C8,Behavioral,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,6,1
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+Task_1,USER_5,5_1,"diferença ""direito à posse"" ""direito de posse""","difference ""right to possession"" ""right of possession""",Initial State (IS),Change to the Doctrine box,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Used a filter to narrow the results,Control,C8,Behavioral,,
+,,,"diferença ""direito à posse"" ","difference ""right to possession"" ",Generalization (GE),,Select Main Ideas,SMI2,Metacognitive,,
+,,,"""direito à posse"" ","""right to possession"" ",Generalization (GE),,Select Main Ideas,SMI2,Metacognitive,,
+,,,direito a posse e direito de posse,right to possession and right of possession,Specialization (SC),,Select Main Ideas,SMI3,Metacognitive,,
+,,,direito a posse ,right to possession ,Generalization (GE),,Select Main Ideas,SMI2,Metacognitive,,
+,,,"""direito à posse"" ","""right to possession"" ",Repeat (RP),,Trial and Error,TE1,Procedural,,
+,,,,,,Change to the All box,Select Main Ideas,SMI6,Procedural,,
+,,,jus possidendi e jus possessionis ,jus possidendi and jus possessionis ,New (NW),,Select Main Ideas,SMI3,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI6,Procedural,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+,,,,,,Duplicated the tab,Control,C9,Behavioral,,
+,,,"""posse manda""","""possession rules""",New (NW),,Trial and Error,TE1,Procedural,,
+,,,,,,User realized that had used a word different the one intended,Problem-solving,PS2,Procedural,,
+,,,"""posse mansa""","""meek possession""",Word Substitution (WS),,Select Main Ideas,SMI3,Metacognitive,,
+,,,,,,Change to the Doctrine box,Select Main Ideas,SMI6,Metacognitive,,
+,,,"tubação esbulho ""ação possessória""","full infringement partially infrigiment of the ownership right ""possessory action""",New (NW),,Purposeful Thinking,PT1,Metacognitive,4,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Control,C6,Behavioral,,
+,,,tubação esbulho ,full infringement partially infrigiment of the ownership right ,Generalization (GE),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Change to the Jurisprudence box ,Select Main Ideas,SMI6,Metacognitive,,
+,,,tubação esbulho diferença,full infringement partially infrigiment of the ownership right difference,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+Task_2,USER_5,5_2,vênia congugal locação,maaital consent  leasing ,Initial State (IS),There was a typo in the keyword 'marital',Control,C4,Behavioral,,
+,,,vênia congugal ,maaital consent,Generalization (GE),,Select Main Ideas,SMI2,Metacognitive,,
+,,,vênia conjugal para a propositura de ação,marital consent for the filing of action,Word Substitution (WS),,Select Main Ideas,SMI3,Metacognitive,,
+,,,,,,User did not realized the typo but decided to following an automatic search suggestion to solve the problem,Problem-solving,PS1,Procedural,,
+,,,vênia conjugal para locação,marital consent for leasing,Word Substitution (WS),,Trial and Error,TE1,Procedural,6,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,aluguel tributos cobrados,rent taxes charged,New (NW),,Purposeful Thinking,PT1,Metacognitive,,
+,,,locação tributos cobrança,leasing taxes charge,Word Substitution (WS),,Purposeful Thinking,PT1,Metacognitive,3,1
+,,,,,,,Control,C6,Behavioral,,
+,,,,,,Change to the Jurisprudence box ,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Control,C6,Behavioral,,
+,,,locação tributos anuência locador,leasing taxes landlord consent,Word Substitution (WS),,Purposeful Thinking,PT1,Metacognitive,2,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Control,C6,Behavioral,,
+,,,locação contas,leasing bills,Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,locação contas cobrança,leasing bills charge,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,,
+,,,locação imóvel contas cobrança,propery leasing bills charge,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,,
+,,,,,,Change to the All box ,Select Main Ideas,SMI6,Metacognitive,7,1
+,,,,,,Duplicated the tab,Control,C9,Behavioral,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Control,C6,Behavioral,,
+,,,locação imóvel tributos,propery leasing taxes,Word Substitution (WS),Change to the All box ,Trial and Error,TE1,Procedural,5,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Control,C6,Behavioral,,
+,,,locação imóvel tributos junto,propery leasing taxes together,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,3,1
+,,,,,,,Control,C6,Behavioral,,
+,,,,,,Changed tabs,Purposeful Thinking,PT3,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+Task_3,USER_5,5_3,STF danos materiais vôos internacionais,supreme court material damage international flights,Initial State (IS),,Select Main Ideas,SMI2,Metacognitive,,
+,,,STF extravio vôos internacionais,supreme court loss international flights,Word Substitution (WS),,Trial and Error,TE1,Procedural,5,
+,,,,,,,Control,C6,Behavioral,6,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Control,C6,Behavioral,,
+,,,STJ extravio vôos internacionais,circuit court loss international flights,Word Substitution (WS),,Trial and Error,TE1,Procedural,6,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,STJ vôos internacionais stf 2017,circuit court international flights supreme court 2017,Word Substitution (WS),,Trial and Error,TE1,Procedural,7,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+Task_1,USER_6,6_1,definição possuidor Código Civil,holder definition Civil Code,Initial State (IS),,Control,C4,Behavioral,,
+,,,,,,,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,2,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+,,,vicios objetivos posse injusta,objective vices unfair holding,New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,2,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+,,,jus possidendi e jus possessionis ,jus possidendi and jus possessionis ,New (NW),,Select Main Ideas,SMI3,Metacognitive,,
+,,,,,,Reading first link's snipet ,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+Task_2,USER_6,6_2,há mais de um locador ou mais de um locatário responsabilidade,there is more than one landlord or more than one tenant responsibility,Initial State (IS),,Select Main Ideas,SMI2,Metacognitive,,
+,,,"""dois locadores"" responsabilidade","""two landlord"" liability",Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,,,,,Select Main Ideas,SMI3,Metacognitive,,
+,,,dois locadores responsabilidade solidária,two landlord joint liability,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,responsabilidade solidária mais de um locador,joint liability more than one landlord,Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,responsabilidade solidária pluralidade de locadores,joint liability landlord plurarity,Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,pluralidade de locadores responsabilidade solidária,landlord plurarity joint liability,Repeat (RP),,Problem-solving,PS1,Procedural,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Control,C6,Behavior,4,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Control,C6,Behavior,,
+,,,locadores responsabilidade solidária,landlord joint liability,Generalization (GE),,Select Main Ideas,SMI2,Metacognitive,,
+,,,dois locadores responsabilidade solidária,two landlord joint liability,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,,
+,,,dois locadores responsabilidade solidária lei inquilinato,two landlord joint liability landlord-tenant law,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,,
+,,,,,,Article's tab,Select Main Ideas,SMI6,Metacognitive,2,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Purposeful Thinking,PT2,Metacognitive,3/4,1
+,,,,,,,Purposeful Thinking,PT3,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,Open Google in a new tab,Control,C1,Behavior,,
+,,,,,,,Trial and Error,TE2,Procedural,,
+,,,lei nº 8.245/91,law nº 8.245/91,New (NW),,Disorientation,D2,Behavior,,
+,,,,,,,Trial and Error,TE3,Procedural,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Evaluation,E2,Metacognitive,,
+,,,morte locatário sub-rogado,death subrogated tenant,New (NW),Returned to Jusbrasil,Control,C2,Behavior,,
+,,,,,,Reading first link's snipet ,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Compared two already open tabs from Jusbrasil and Google,Evaluation,E2,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+,,,direito de retomada pedido expresso ação renovatória,right of resumption express request renewal action,New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Reading first link's snipet ,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,Compared two already open tabs from Jusbrasil and Google,Evaluation,E2,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,Returned to Jusbrasil,Control,C2,Behavior,,
+,,,retomada pedido expresso ação renovatória,resumption express request renewal action,Generalization (GE),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,jurisprudence section,Select Main Ideas,SMI5,Metacognitive,2,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+Task_3,USER_6,6_3,dano moral decorrente de atraso/cancelamento de voo e extravio de bagagens,moral damage resulting from flight delay/cancellation and lost luggage,Initial State (IS),Reading first link's snipet ,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,2,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Control,C6,Behavior,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,2,1
+,,,,,,,Purposeful Thinking,PT2,Metacognitive,1,1
+,,,,,,Open Google in a new tab,Control,C1,Behavior,,
+,,,,,,,Trial and Error,TE2,Procedural,,
+,,,dano moral decorrente de atraso/cancelamento de voo e extravio de bagagens,moral damage resulting from flight delay/cancellation and lost luggage,Repeat (RP),,Problem-solving,PS1,Procedural,,
+,,,,,,,Trial and Error,TE3,Procedural,1/2,1
+,,,,,,,Purposeful Thinking,PT3,Metacognitive,,
+,,,,,,,Purposeful Thinking,PT2,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,Open Google in a new tab,Control,C1,Behavior,,
+,,,,,,,Trial and Error,TE2,Procedural,,
+,,,Agrg no Ag 442 487/RJ,Agrg at Ag 442 487/RJ,New (NW),,Disorientation,D2,Behavior,1,1
+,,,Agrg no Ag 442 487/RJ,Agrg at Ag 442 487/RJ,Repeat (RP),Returned to Jusbrasil,Problem-solving,PS1,Procedural,1,1
+,,,,,,Compared two already open tabs from Jusbrasil and Google,Evaluation,E2,Metacognitive,,
+Task_1,USER_7,7_1,posse justa e injusta,fair and unfair holding,Initial State (IS),,Select Main Ideas,SMI1,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Change to Articles and News box ,Select Main Ideas,SMI5,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+,,,Agint no Resp: 1952242 SE 2021/0217220-8,Agint at Resp: 1952242 SE 2021/0217220-8,New (NW),,Disorientation,D2,Behavior,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,jus possidendi e jus possessionis ,jus possidendi and jus possessionis ,New (NW),,Select Main Ideas,SMI3,Metacognitive,,
+,,,,,,Change to Articles and News box ,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,Reading first link's snipet ,Evaluation,E3,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+Task_2,USER_7,7_2,qual contrato de locação exigencia anunencia conjugal?,which lease contract reguires matital consent?,Initial State (IS),There was a typo in the keywords 'requires' and 'marital',Select Main Ideas,SMI2,Metacognitive,,
+,,,contrato de locação que precisa de vênia conjulgal,lease contract that requires matital consent,Word Substitution (WS),There was a typo in the keyword 'marital',Problem-solving,PS2,Procedural,,
+,,,vênia conjugal para contrato de locação de imóvel,marital consent for property leasing contract,Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,,,,Change to Articles and News box ,Select Main Ideas,SMI5,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+,,,lei do inquilinato direito de preferência,landlord-tenant law right of preference,New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Change to Articles and News box ,Select Main Ideas,SMI5,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+Task_3,USER_7,7_3,Como foi a evolução do entendimento do STJ sobre a aplicação do Código de Defesa do Consumidor nos casos de responsabilidade civil de companhias aéreas em voo internacional?,How has evolved the STJ's understanding regarding the Consumer Protection Code application in cases of civil liability involving airlines on international flights?,Initial State (IS),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Change to Articles and News box ,Select Main Ideas,SMI5,Metacognitive,,
+,,,,,,,Purposeful Thinking,PT2,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,Open Google in a new tab,Control,C1,Behavior,,
+,,,,,,,Trial and Error,TE2,Procedural,,
+,,,Como foi a evolução do entendimento do STJ sobre a aplicação do Código de Defesa do Consumidor nos casos de responsabilidade civil de companhias aéreas em voo internacional?,How has evolved the STJ's understanding regarding the Consumer Protection Code application in cases of civil liability involving airlines on international flights?,Repeat (RP),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Trial and Error,TE3,Procedural,1,1
+,,,,,,,Control,C6,Behavior,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Disorientation,D1,Behavior,,
+,,,"Qual a regra para reparação de danos materiais decorrentes de extravio de bagagem em voos nacionais, segundo o entendimento da legislação brasileira?","What is the rule for repairing material damage resulting from lost luggage on domestic flights, according to Brazilian legislation?",New (NW),Returned to Jusbrasil,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Change to Articles and News box ,Select Main Ideas,SMI5,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+,,,"Qual é a regra geral da responsabilidade civil aplicada aos fornecedores de serviços de transporte aéreo, de acordo com o Código de Defesa do Consumidor (CDC)?","What is the general civil liability rule applied to air transport service providers, according to the Consumer Protection Code (CDC)?",New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Change to Articles and News box ,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,Open Google in a new tab,Control,C1,Behavior,,
+,,,,,,,Trial and Error,TE2,Procedural,,
+,,,"Qual é a regra geral da responsabilidade civil aplicada aos fornecedores de serviços de transporte aéreo, de acordo com o Código de Defesa do Consumidor (CDC)?","What is the general civil liability rule applied to air transport service providers, according to the Consumer Protection Code (CDC)?",Repeat (RP),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,,Trial and Error,TE3,Procedural,1,1
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+,,,Qual é o entendimento atual acerca da configuração do dano moral decorrente de atrasos/cancelamentos de voos e extravio de bagagens?,What is the current understanding regarding the configuration of moral damage resulting from flight delays/cancellations and lost luggage?,New (NW),Returned to Jusbrasil,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Change to Articles and News box ,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,Open Google in a new tab,Control,C1,Behavior,,
+,,,,,,,Trial and Error,TE2,Procedural,,
+,,,Qual é o entendimento atual acerca da configuração do dano moral decorrente de atrasos/cancelamentos de voos e extravio de bagagens?,What is the current understanding regarding the configuration of moral damage resulting from flight delays/cancellations and lost luggage?,Repeat (RP),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Reading first link's snipet ,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+Task_1,USER_8,8_1,Jus Possessionis,Jus Possessionis,Initial State (IS),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Reading first link's snipet ,Select Main Ideas,SMI6,Metacognitive,1,1
+,,,,,,,Evaluation,E3,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+,,,Posse precária,Precarious holding,New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,"Reading first, second and third links' snipet ",Purposeful Thinking,PT3,Metacognitive,1/ 2 /3,1
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E2,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+Task_2,USER_8,8_2,Vênia conjugal locação,Marital consent leasing ,Initial State (IS),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,"Reading first, second, third, and fourth links' snipet ",Purposeful Thinking,PT3,Metacognitive,1/ 2 /3 /4,1
+,,,,,,,Evaluation,E3,Metacognitive,,
+,,,Direito de retomada manifestação,Right of resumption manifestation,New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,Reading first and second links' snipet ,Purposeful Thinking,PT3,Metacognitive,1/ 2,1
+,,,Direito de retomada locação manifestação,Right of resumption leasing manifestation,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,,
+,,,,,,Reading first link's snipet ,Select Main Ideas,SMI6,Metacognitive,1,1
+,,,Retomada locação manifestação,Resumption leasing manifestation,Generalization (GE),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,"Reading first, second, and third links' snipet ",Purposeful Thinking,PT3,Metacognitive,1 / 2 / 3,1
+,,,Retomada locação expressa,Resumption leasing express,Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,,,,Reading first and second links' snipet ,Purposeful Thinking,PT3,Metacognitive,1/ 2,1
+,,,,,,,Evaluation,E3,Metacognitive,,
+Task_3,USER_8,8_3,Dano moral extravio de bagagem voo doméstico,Moral damage luggage loss domestic flight,Initial State (IS),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,"Reading first, second, and third links' snipet ",Purposeful Thinking,PT3,Metacognitive,1 / 2 / 3,1
+,,,,,,,Evaluation,E2,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+,,,Dano moral cancelamento de voo configuração,Moral damage flight cancelled conformation,Word Substitution (WS),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,"Reading first, and second links' snipet ",Purposeful Thinking,PT3,Metacognitive,1 / 2,1
+,,,,,,,Evaluation,E2,Metacognitive,,
+,,,Dano moral abalo psicológico,Moral damage psychological shock,Word Substitution (WS),Change to Jurisprudence box ,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Reading first link's snipet ,Select Main Ideas,SMI6,Metacognitive,1,1
+,,,,,,,Evaluation,E3,Metacognitive,,
+Task_1,USER_9,9_1,jus possidendi e jus possessionis ,jus possidendi and jus possessionis ,Initial State (IS),,Control,C4,Behavioral,,
+,,,,,,,Select Main Ideas,SMI2,Metacognitive,,
+,,,jus possidendi e jus possessionis ,jus possidendi and jus possessionis ,Repeat (RP),,Select Main Ideas,SMI3,Metacognitive,,
+,,,,,,Reading first link's snipet ,Select Main Ideas,SMI6,Metacognitive,1,1
+,,,,,,,Evaluation,E3,Metacognitive,,
+Task_2,USER_9,9_2,Quais tipos de benfeitorias realizadas pelo locatário serão indenizáveis pelo locador ao final da locação,What types of improvements made by the tenant will be compensated by the landlord at the end of the lease,Initial State (IS),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Reading first and second links' snipet ,Purposeful Thinking,PT3,Metacognitive,1 / 2,1
+,,,Benfeitorias necessárias e benfeitorias úteis,Necessary improvements and useful improvements,Word Substitution (WS),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Reading first link's snipet ,Select Main Ideas,SMI6,Metacognitive,1,1
+,,,Ação renovatória de locação é obrigatório constar na contestação o pedido de retomada do imóvel,Lease renewal action is mandatory to include in the response the request for repossession of the property,New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,Ação renovatória e o direito de retomada,Lease renewal and the right of resumption,Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,,,,"Reading first, second, and third links' snipet ",Purposeful Thinking,PT3,Metacognitive,1 / 2 / 3,1
+,,,Contestação da ação renovatória de locação tem como requisito o pedido de retomada do imóvel,Contesting the lease renewal action requires a request to repossess the property,Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,"O direito de retomada tem que ser exercido expressamente, pelo locador, quando da defesa de uma ação renovatória de aluguel ajuizada pelo locatário",The right of resumption must be expressly exercised by the lessor when defending a lease renewal action filed by the lessee,Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,,,,"Reading first, second, and third links' snipet ",Purposeful Thinking,PT3,Metacognitive,1 / 2 / 3,1
+,,,O direito de retomada expresso é requisito para o locador,The express right of resumption is a requirement for the lessor,Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,,,,"Reading first, second, and third links' snipet ",Purposeful Thinking,PT3,Metacognitive,1 / 2 / 3,1
+,,,O direito de retomada expresso é requisito para o locador,The express right of resumption is a requirement for the lessor,Repeat (RP),,Trial and Error,TE1,Procedural,,
+,,,Direito de retomada na locação,Right to resume the lease,Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,,,,"Reading first, second, and third links' snipet ",Purposeful Thinking,PT3,Metacognitive,1 / 2 / 3,1
+,,,Requisito para o direito de retomada da locação,Requirement for the right to resume the lease,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,,
+,,,,,,"Reading first, second, and third links' snipet ",Purposeful Thinking,PT3,Metacognitive,1 / 2 / 3,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,4,1
+,,,,,,,Control ,C6,Behavioral,5,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,Pedido expresso de retomada do imóvel deve ser analizado caso a caso,Express request to repossess the property must be analyzed on a case-by-case basis,New (NW),,Select Main Ideas,SMI2,Metacognitive,4,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Control ,C6,Behavioral,6,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Evaluation,E2,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+Task_3,USER_9,9_3,Aplicação do código de defesa do consumidor nos casos de responsabildade civil de companhias aéreas em voo internacional,Application of the consumer protection code in cases of civil liability of airlines on international flights,Initial State (IS),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,Repercussão geral aplicação do CDC nas indenizações de voos internacionais,General repercussions of the application of the CDC to compensation for international flights,Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,Repercussão geral e a aplicação das convenções internacionais na responsabilidade civil das companhias aéreas internacionais,General repercussion and application of international conventions in the civil liability of international airlines,Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,,,,Reading first link's snipet ,Select Main Ideas,SMI6,Metacognitive,1,1
+,,,Responsabilidade civil das companhias aéreas internacionais CDC ou convenções internacionais,Civil liability of international airlines CDC or international conventions,Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,,,,Reading first and secondlinks' snipet ,Purposeful Thinking,PT3,Metacognitive,1 / 2 ,1
+,,,,,,,Evaluation,E2,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+Task_1,USER_10,10_1,Tipos de posse,Ownership types,Initial State (IS),,Control ,C4,Behavioral,,
+,,,,,,Change to Doctrine box ,Select Main Ideas,SMI5,Metacognitive,3,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Control ,C6,Behavioral,,
+,,,Código civil,Civil code,New (NW),,Trial and Error,TE1,Procedural,1,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Control ,C6,Behavioral,,
+,,,Posse precária,Precarious holding,New (NW),,Trial and Error,TE1,Procedural,,
+,,,,,,,Control ,C8,Behavioral,,
+,,,,,,Change to the jurisprudence section,Select Main Ideas,SMI5,Metacognitive,,
+,,,,,,Read the jurisprudential current box,Select Main Ideas,SMI6,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Control ,C6,Behavioral,,
+,,,,,,,Control ,C9,Behavioral,2,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E2,Metacognitive,,
+,,,jus possidendi ,jus possidendi ,New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Change to the jurisprudence section,Select Main Ideas,SMI5,Metacognitive,,
+,,,jus possessionis e jus possidendi  ,jus possessionis and jus possidendi  ,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,,
+,,,,,,Reading first and third link's snipet ,Select Main Ideas,SMI6,Metacognitive,1 / 3,1
+,,,,,,Change to Doctrine box ,Select Main Ideas,SMI5,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Control ,C6,Behavioral,3,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,"AgInt no REsp: 1952242 SE 2021/0217220-8, Relator: Ministro LUIS FELIPE SALOMÃO, Data de Julgamento: 14/12/2021, T4 - QUARTA TURMA, Data de Publicação: DJe 01/02/2022","AgInt at REsp: 1952242 SE 2021/0217220-8, Rapporteur: Minister LUIS FELIPE SALOMÃO, Judgment Date: 12/14/2021, T4 - FOURTH PANEL, Publication Date: DJe 02/01/2022",New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,AgInt no REsp: 1952242 ,AgInt at REsp: 1952242 ,Generalization (GE),,Select Main Ideas,SMI2,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,Opened a pdf document,Select Main Ideas,SMI5,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Evaluation,E2,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+Task_2,USER_10,10_2,Lei do inquilinato,Landlord-tenant law,Initial State (IS),,Control ,C4,Behavioral,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Control ,C6,Behavioral,,
+,,,Lei do inquilinato estabelecimento comercial,Landlord-tenant law commercial establishment,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,,
+,,,,,,Change to the jurisprudence section,Select Main Ideas,SMI5,Metacognitive,,
+,,,"Lei do inquilinato ""estabelecimento comercial""","Landlord-tenant law ""commercial establishment""",Repeat (RP),,Trial and Error,TE1,Procedural,,
+,,,,,,Change to Articles box ,Select Main Ideas,SMI5,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,Lei do inquilinato,Landlord-tenant law,Return State (RS),,Control ,C6,Behavioral,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,Lei n0 8245,Law number 8245,New (NW),Open-up Google,Trial and Error,TE2,Procedural,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Purposeful Thinking,PT3,Metacognitive,,
+,,,,,,,Evaluation,E2,Metacognitive,,
+,,,responsabilidade solidária locador locatário,joint liability landlord tenant,Related (RE),,Select Main Ideas,SMI2,Metacognitive,,
+,,,responsabilidade solidária entre locatários,joint liability among tenants,Word Substitution (WS),,Trial and Error,TE1,Procedural,,
+,,,,,,Change to the jurisprudence section,Select Main Ideas,SMI5,Metacognitive,3,1
+,,,,,,,Control ,C6,Behavioral,,
+,,,responsabilidade solidária entre locatários lei,joint liability among tenants law,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,,
+,,,responsabilidade solidária entre vários locatários,joint liability among multiple tenants ,Word Substitution (WS),,Trial and Error,TE1,Procedural,1,1
+,,,,,,,Purposeful Thinking,PT3,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Control ,C6,Behavioral,,
+,,,,,,Filtered the results,Control ,C8,Behavioral,4,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Control ,C6,Behavioral,,
+,,,Vênia conjugal prazo de locação,Marital consent lease term,New (NW),,Select Main Ideas,SMI2,Metacognitive,2,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Purposeful Thinking,PT3,Metacognitive,,
+,,,Sub rogação locação,Subrogation lease,Word Substitution (WS),,Trial and Error,TE1,Procedural,2,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Purposeful Thinking,PT3,Metacognitive,,
+,,,"Inquilinato Aluguel, Tributos, Encargos e Despesas Ordinárias","Tenancy Rent, Taxes, Charges and Ordinary Expenses",New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Exploring the SERP content,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Purposeful Thinking,PT3,Metacognitive,,
+,,,,,,,Evaluation,E2,Metacognitive,,
+,,,"o direito de retomada tem que ser exercido expressamente, pelo locador, quando da defesa em uma ação renovatória de aluguel ajuizada pelo locatário",the right of resumption must be expressly exercised by the lessor when defending a rent renewal action filed by the lessee,New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Change to Articles box ,Select Main Ideas,SMI5,Metacognitive,,
+,,,o direito de retomada locador,the right of resumption lessor ,Generalization (GE),,Select Main Ideas,SMI2,Metacognitive,2,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Control ,C6,Behavioral,3,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,interpretação lógico-sistemática das causas de pedir da ação podem permitir a verificação do exercício do direito de retomada mesmo sem pedido expresso na defesa,logical-systematic interpretation of the causes of action may allow verification of the exercise of the right of resumption even without an express request by the defense,New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,Defesa vazia locador,Empty landlord defense,New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Change to the jurisprudence section,Select Main Ideas,SMI5,Metacognitive,2,1
+,,,"A retomada é, por sua natureza, um direito que o locador opõe ao direito de renovação exercido pelo locatário. Não é pura e simplesmente defesa; não consiste em negar os fundamentos jurídicos do pedido do autor, mas sim em pleitear direito próprio, que objetiva a extinção do direito à renovação e restituição do prédio","Resumption is, by its nature, a right that the lessor opposes to the right of renewal exercised by the lessee. It is not pure and simple defense; does not consist of denying the legal foundations of the author's request, but rather in claiming his own right, which aims to extinguish the right to renovation and restitution of the building",New (NW),,Trial and Error,TE1,Procedural,,
+,,,direito de renovação locador locatário,landlord tenant renewal right,New (NW),,Trial and Error,TE1,Procedural,3,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Purposeful Thinking,PT3,Metacognitive,,
+,,,ação renovatória de locação de imóvel comercial defesa locador,commercial property lease renewal action landlord defense,New (NW),,Trial and Error,TE1,Procedural,,
+,,,,,,,Purposeful Thinking,PT3,Metacognitive,,
+,,,ação renovatória inércia locador,renewal action landlord inertia,Word Substitution (WS),,Trial and Error,TE1,Procedural,1,1
+,,,,,,Opened a pdf document,Select Main Ideas,SMI5,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,Exercício do direito de retomada locador sem pedido expresso,Exercise of the lessor's right of repossession without express request,New (NW),,Trial and Error,TE1,Procedural,,
+,,,,,,,Evaluation,E2,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+Task_3,USER_10,10_3,Declaração especial de valor de bagagem,Baggage value special declaration ,Initial State (IS),,Select Main Ideas,SMI3,Metacognitive,7,1
+,,,,,,Opened a pdf document,Select Main Ideas,SMI5,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,Convenção de Montreal,Montreal Convention,New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Change to the jurisprudence section,Select Main Ideas,SMI5,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,STJ atraso de voo internacional,STJ international flight delay,New (NW),,Select Main Ideas,SMI2,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Evaluation,E2,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,4,1
+,,,,,,,Control ,C6,Behavioral,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,5,1
+,,,,,,,Control ,C6,Behavioral,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,6,1
+,,,,,,,Purposeful Thinking,PT3,Metacognitive,,
+,,,,,,,Evaluation,E2,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+Task_1,USER_11,11_1,direito à posse,right of ownership,Initial State (IS),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,Reading first link's snipet ,Select Main Ideas,SMI6,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+,,,posse injusta, unfair holding,New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,1,1
+,,,,,,,Evaluation,E3,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+,,,jus possidendi e jus possessionis ,jus possidendi and jus possessionis ,New (NW),,Select Main Ideas,SMI3,Metacognitive,,
+,,,,,,Change to Articles box ,Select Main Ideas,SMI6,Metacognitive,1,1
+,,,,,,,Evaluation,E3,Metacognitive,,
+,,,,,,,Control,C6,Behavioral,,
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+Task_2,USER_11,11_2,locação contas cobrança,leasing bills charge,Initial State (IS),,Purposeful Thinking,PT1,Metacognitive,,
+,,,locação casa contas cobrança,house leasing bills charge,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Control,C6,Behavioral,,
+,,,Pedido de retomada do imóvel ,Request to repossess the property ,New (NW),,Select Main Ideas,SMI2,Metacognitive,6,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+Task_3,USER_11,11_3,Dano moral extravio de bagagem ,Moral damage luggage loss ,Initial State (IS),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,2,1
+,,,,,,,Evaluation,E2,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+,,,Dano moral cancelamento de voo ,Moral damage flight cancelled ,Word Substitution (WS),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,1,1
+,,,,,,,Evaluation,E2,Metacognitive,,
+,,,Responsabilidade civil das companhias aéreas internacionais ,Civil liability of international airlines ,Word Substitution (WS),,Purposeful Thinking,PT3,Metacognitive,5/9,1
+,,,,,,,Evaluation,E2,Metacognitive,,
+,,,,,,,Evaluation,E3,Metacognitive,,
+Task_1,USER_12,12_1,Possuidor segundo o Código Civil,Owner according to the Civil Code,Initial State (IS),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,Definição de detenção,Holding definition,New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,Definição de detenção possessória,Holding definition ownership,Specialization (SC),,Purposeful Thinking,PT1,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,4,1
+Task_2,USER_12,12_2,contrato de locação anuencia conjugal,lease contract marital consent?,Initial State (IS),,Select Main Ideas,SMI2,Metacognitive,,
+,,,Vênia conjugal locação,Marital consent leasing ,Word Substitution (WS),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Purposeful Thinking,PT3,Metacognitive,1,1
+,,,,,,,Evaluation,E3,Metacognitive,,
+,,,Direito de retomada manifestação,Right of resumption manifestation,New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,,,,,Purposeful Thinking,PT3,Metacognitive,1,1
+,,,lei do inquilinato direito de preferência,landlord-tenant law right of preference,New (NW),,Select Main Ideas,SMI2,Metacognitive,,
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,4,1
+,,,,,,,Select Main Ideas,SMI7,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
+Task_3,USER_12,12_3,indenização danos morais,moral damages  compensation,Initial State (IS),,Select Main Ideas,SMI3,Metacognitive,1,1
+,,,,,,,Select Main Ideas,SMI6,Metacognitive,,
+,,,dano moral presumido perda de bagagem,presumed moral damage luggage loss ,Word Substitution (WS),,Purposeful Thinking,PT1,Metacognitive,3,1
+,,,,,,,Control,C6,Behavioral,,
+,,,,,,,Select Main Ideas,SMI5,Metacognitive,6,1
+,,,,,,,Select Main Ideas,SMI8,Metacognitive,,
+,,,,,,,Evaluation,E4,Metacognitive,,
