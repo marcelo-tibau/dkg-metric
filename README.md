@@ -1,15 +1,28 @@
 # dkg-metric
-Welcome to the official repository for datasets supporting the paper on the Degree of Knowledge Gain (DKG) Metric.
+This repository contains datasets used in the study 'The Degree of Knowledge Gain (DKG) metric'. The DKG metric quantifies knowledge acquisition during Web searches by analyzing user interactions, search behaviors, and learning outcomes. These datasets provide the foundation for replicating the study's analysis and extending research in Searching as Learning (SaL). The datasets include:
 
-This repository contains the datasets used to validate and analyze the DKG metric, a novel approach for quantifying knowledge acquisition during Web searches. These datasets include annotated search sessions, pre- and post-test results, and data derived from experiments conducted using a specialized legal content platform.
+*1. DKGComputing.csv*
+Description: Contains data used to compute the DKG metric for each participant, including query reformulations, clicked documents, and ranking positions.
+Key Variables:
+- Query terms and similarities
+- Clicked document details
+- Computed DKG values
 
-Key Features:
-Experiment Data: Includes participant search behaviors, query reformulations, and task completion metrics.
-Pre- and Post-Test Results: Used to measure the Transfer of Learning (ToL) and correlate it with the DKG metric.
-Annotated Search Logs: Based on the Online Information Searching Strategies (OISS) model and ESKiP taxonomy.
-Statistical Insights: Datasets support analyses such as Confidence Interval (CI) and Estimated Power calculations.
+*2. SearchMapping.csv*
+Description: Provides mappings of search strategies based on the Online Information Searching Strategies (OISS) framework, detailing participants' search behaviors and their association with knowledge gain.
+Key Variables:
+- Search strategies and codes
+- Behavioral observations
+- Query classifications
 
-Usage:
-Researchers and practitioners in information retrieval, learning analytics, and digital education are welcome to use these datasets for further analysis, replication, or extension of the DKG metric research.
+*3. TransferOfLearningScore.csv*
+Description: Captures Transfer of Learning (ToL) scores for participants, derived from pre-test and post-test evaluations conducted during the study.
+Key Variables:
+- Participant IDs
+- Pre-test scores
+- Post-test scores
+- ToL calculations
 
-
+*How to Use*
+These datasets can be used to replicate the study’s analysis, validate the DKG metric, and explore new research questions related to Web search behavior and learning.
+Suggested analyses include calculating DKG values, identifying search behavior patterns, and correlating ToL scores with DKG metrics.
